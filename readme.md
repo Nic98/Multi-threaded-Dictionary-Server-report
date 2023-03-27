@@ -1,12 +1,4 @@
-﻿
-
-**Student Name: Yuhao Zong**
-
-**Student Number: 1024974**
-
-**2022 SEM1 COMP90054: Distributed System**
-
-**Assignment 1 Multi-threaded Dictionary Server report**
+﻿** Multi-threaded Dictionary Server report**
 
 Problem context description
 
